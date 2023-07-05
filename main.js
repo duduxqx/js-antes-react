@@ -21,7 +21,7 @@ const user = {
  document.body.innerText = JSON.stringify(Object.values(user));
  document.body.innerText = JSON.stringify(Object.entries(user));
 */
-// Desestrução
+// Desestruturação
 /*
 const { address, age} = user;
 
